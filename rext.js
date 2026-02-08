@@ -234,3 +234,5 @@ let data = [0, null];
 let [a = 10, b = 20] = data;
 console.log(a);
 console.log(b);
+
+console.log("Ram Singh");
